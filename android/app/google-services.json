@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "37838426049",
+    "firebase_url": "https://flutter-signin-2cfaa.firebaseio.com",
+    "project_id": "flutter-signin-2cfaa",
+    "storage_bucket": "flutter-signin-2cfaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37838426049:android:859806482c37f1cc1d6940",
+        "android_client_info": {
+          "package_name": "com.example.firebase_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37838426049-kikjb119gscpecfo0rcs27mn2un7urdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaKOY2_ZHEJBx8wCOGxWuHAZ68hL3aeKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37838426049-kikjb119gscpecfo0rcs27mn2un7urdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
